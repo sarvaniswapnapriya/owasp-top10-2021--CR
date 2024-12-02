@@ -1,0 +1,283 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 21:44:24] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 21:44:24] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 21:44:24] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 21:44:24] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 21:44:24] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 21:44:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 21:44:30] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 21:44:34] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 21:44:34] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 21:44:34] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 21:44:34] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 21:44:34] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 21:45:26] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 21:45:26] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 21:45:26] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 21:45:26] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 21:45:26] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:root:2024-05-28 21:45:43 - LOGIN_FAILURE - User: admin
+INFO:root:2024-05-28 21:45:43 - LOGIN_FAILURE - User: admin
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 21:45:43] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 21:56:37] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 21:56:37] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 21:56:37] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 21:56:37] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 21:56:37] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:root:2024-05-28 21:57:20 - LOGIN_FAILURE - User: admin
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 21:57:20] "POST /login HTTP/1.1" 200 -
+INFO:root:2024-05-28 21:57:23 - LOGIN_FAILURE - User: asd
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 21:57:23] "POST /login HTTP/1.1" 200 -
+INFO:root:2024-05-28 21:57:26 - LOGIN_FAILURE - User: asd
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 21:57:26] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:20:31] "[32mGET /admin HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:20:31] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:20:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:20:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:20:45] "GET /login HTTP/1.1" 200 -
+INFO:root:2024-05-28 22:20:48 - LOGIN_FAILURE - User: admin
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:20:48] "POST /login HTTP/1.1" 200 -
+INFO:root:2024-05-28 22:20:51 - LOGIN_FAILURE - User: admin
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:20:51] "POST /login HTTP/1.1" 200 -
+INFO:root:2024-05-28 22:20:55 - LOGIN_FAILURE - User: admin
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:20:55] "POST /login HTTP/1.1" 200 -
+INFO:root:2024-05-28 22:20:59 - LOGIN_FAILURE - User: admin
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:20:59] "POST /login HTTP/1.1" 200 -
+INFO:root:2024-05-28 22:21:03 - LOGIN_FAILURE - User: admin
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:21:03] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:21:03] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:21:03] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:21:03] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:21:03] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:root:2024-05-28 22:22:02 - LOGIN_FAILURE - User: admin
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:22:02] "POST /login HTTP/1.1" 200 -
+INFO:root:2024-05-28 22:22:04 - LOGIN_FAILURE - User: asdasd
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:22:04] "POST /login HTTP/1.1" 200 -
+INFO:root:2024-05-28 22:22:07 - LOGIN_FAILURE - User: admin
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:22:07] "POST /login HTTP/1.1" 200 -
+INFO:root:2024-05-28 22:22:11 - LOGIN_FAILURE - User: admin123
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:22:11] "POST /login HTTP/1.1" 200 -
+INFO:root:2024-05-28 22:22:15 - LOGIN_FAILURE - User: admin123
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:22:15] "POST /login HTTP/1.1" 200 -
+INFO:root:2024-05-28 22:22:20 - LOGIN_FAILURE - User: admin
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:22:20] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:24:29] "[32mGET /admin HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:24:29] "GET /login HTTP/1.1" 200 -
+INFO:root:2024-05-28 22:24:33 - LOGIN_FAILURE - User: admin
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:24:33] "POST /login HTTP/1.1" 200 -
+INFO:root:2024-05-28 22:24:37 - LOGIN_FAILURE - User: admin123
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:24:37] "POST /login HTTP/1.1" 200 -
+INFO:root:2024-05-28 22:24:39 - LOGIN_FAILURE - User: admin123
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:24:39] "POST /login HTTP/1.1" 200 -
+INFO:root:2024-05-28 22:24:40 - LOGIN_FAILURE - User: admin123
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:24:40] "POST /login HTTP/1.1" 200 -
+INFO:root:2024-05-28 22:24:42 - LOGIN_FAILURE - User: admin123
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:24:42] "POST /login HTTP/1.1" 200 -
+INFO:root:2024-05-28 22:24:44 - LOGIN_FAILURE - User: admin123
+INFO:root:2024-05-28 22:24:45 - LOGIN_FAILURE - User: admin123
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:24:45] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:24:46] "POST /login HTTP/1.1" 200 -
+INFO:root:2024-05-28 22:24:47 - LOGIN_FAILURE - User: admin123
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:24:47] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:31:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:34:07] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:44:13] "[33mGET /login HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:44:15] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:44:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:44:52] "GET /fetch_url HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:45:03] "[32mGET /admin HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:45:03] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:45:03] "POST /fetch_url HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:45:15] "GET /fetch_url HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:45:27] "[33mGET /all_users HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:45:27] "POST /fetch_url HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:45:29] "GET /fetch_url HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:45:56] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:45:56] "POST /fetch_url HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:45:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:46:01] "GET /fetch_url HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:50:13] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:50:13] "POST /fetch_url HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:54:15] "[35m[1mPOST /fetch_url HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:54:15] "GET /fetch_url?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:54:15] "GET /fetch_url?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:54:15] "GET /fetch_url?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:54:15] "[36mGET /fetch_url?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:56:46] "GET /fetch_url HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:56:47] "[33mGET /users HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:56:47] "POST /fetch_url HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:56:49] "GET /fetch_url HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:56:55] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:56:55] "POST /fetch_url HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:56:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:57:20] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:57:27] "GET /fetch_url HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:57:36] "[33mGET /adminasdsad HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 22:57:36] "POST /fetch_url HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 23:00:16] "GET /fetch_url HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 23:00:20] "[31m[1mPOST /fetch_url HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 23:04:06] "GET /fetch_url HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 23:04:22] "[31m[1mPOST /fetch_url HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in '/Users/mateusznawrocki/dev/owasp_top10/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 574-949-986
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 23:05:31] "POST /fetch_url HTTP/1.1" 200 -
