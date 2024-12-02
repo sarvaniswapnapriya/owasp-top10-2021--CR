@@ -1,0 +1,6 @@
+Flask==2.0.2
+SQLAlchemy==1.4.23
+cryptography==3.4.8
+Jinja2>=3.0.0
+Werkzeug==2.0.3
+Flask-SQLAlchemy==2.5.1
